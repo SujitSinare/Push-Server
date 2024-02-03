@@ -4,7 +4,7 @@
 
 Run `npm i` for to install dependancy
 
-## Run using http-server
+## Run
 
 Run `node index.js` to send the push notification.
 or `npm run start` script.
